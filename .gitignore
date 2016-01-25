@@ -1,0 +1,14 @@
+.idea
+.*.swp
+.project
+nohup.out
+.DS_Store
+._.DS_Store
+.buildpath
+.svn
+.metadata
+.reviewboardc
+*.komodoproject
+.env
+vendor
+composer.lock
